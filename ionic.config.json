@@ -1,0 +1,7 @@
+{
+  "name": "DTR-FE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
